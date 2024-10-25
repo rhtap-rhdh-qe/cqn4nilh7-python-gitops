@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cqn4nilh7-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/cqn4nilh7-python
